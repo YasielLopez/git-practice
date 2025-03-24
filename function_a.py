@@ -1,7 +1,7 @@
 def most_common_value(number_list):
-    """ returns the most common element of the list
-    """
-    pass
+    frequency_index = {}
+    max_frequency = -1
+    most_common_value = None
 
 
 if __name__ == "__main__":
